@@ -540,7 +540,7 @@ export default function Home() {
                     </div>
 
                     <div className="mt-1 text-slate-600">
-                      +91 XXXXX XXXXX
+                      +91 7976907718
                     </div>
 
                   </div>
