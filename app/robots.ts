@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://madhukaraadvocate.in/sitemap.xml',
+    sitemap: 'https://madhukaradvocate.in/sitemap.xml',
   }
 }
